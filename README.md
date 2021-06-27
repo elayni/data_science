@@ -1,7 +1,7 @@
-# data_science
+## Minicurso Women in Data Science Recife 2020
 
-data scicen studies 
+Minicurso ministrado pelo WiDS Recife em 2020. 
 
-Teste
-
-teste 2
+Aula 1.
+Aula 2.
+Aula 3.
